@@ -1,0 +1,1007 @@
+{
+  "version": 1,
+  "generatedAt": "2026-11-26T06:00:00+08:00",
+  "samples": [
+    {
+      "id": "clean-ltr",
+      "name": "清水点 · 左卷",
+      "file": "clean-ltr.mp4",
+      "durationSec": 72,
+      "fps": 12,
+      "width": 640,
+      "height": 360,
+      "weather": "clear",
+      "calibration": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "cameraHeightM": 9.2,
+        "tiltDeg": 10.5,
+        "horizontalFovDeg": 64,
+        "reef": {
+          "x": 0.58,
+          "y": 0.68
+        },
+        "reefDepthM": 3.2,
+        "calibratedAt": "2026-11-26T06:00:00+08:00"
+      },
+      "buoy": {
+        "station": "浮标 OB-07（同步模拟）",
+        "periodS": 8.5,
+        "significantHeightM": 1.11,
+        "depthM": 2.9
+      },
+      "chart": {
+        "source": "海图礁区测深格网 2025-Q2",
+        "reefDepthM": 2.9,
+        "toleranceM": 0.73
+      },
+      "waves": [
+        {
+          "index": 1,
+          "crossingSec": 5,
+          "periodS": 8.5,
+          "heightM": 1.22,
+          "speedMs": 5.33,
+          "depthM": 2.9,
+          "direction": "ltr"
+        },
+        {
+          "index": 2,
+          "crossingSec": 13.5,
+          "periodS": 8.5,
+          "heightM": 1.18,
+          "speedMs": 5.33,
+          "depthM": 2.9,
+          "direction": "ltr"
+        },
+        {
+          "index": 3,
+          "crossingSec": 22,
+          "periodS": 8.5,
+          "heightM": 1.07,
+          "speedMs": 5.33,
+          "depthM": 2.9,
+          "direction": "ltr"
+        },
+        {
+          "index": 4,
+          "crossingSec": 30.5,
+          "periodS": 8.5,
+          "heightM": 1.14,
+          "speedMs": 5.33,
+          "depthM": 2.9,
+          "direction": "ltr"
+        },
+        {
+          "index": 5,
+          "crossingSec": 39,
+          "periodS": 8.5,
+          "heightM": 1.24,
+          "speedMs": 5.33,
+          "depthM": 2.9,
+          "direction": "ltr"
+        },
+        {
+          "index": 6,
+          "crossingSec": 47.5,
+          "periodS": 8.5,
+          "heightM": 1.13,
+          "speedMs": 5.33,
+          "depthM": 2.9,
+          "direction": "ltr"
+        },
+        {
+          "index": 7,
+          "crossingSec": 56,
+          "periodS": 8.5,
+          "heightM": 1.07,
+          "speedMs": 5.33,
+          "depthM": 2.9,
+          "direction": "ltr"
+        },
+        {
+          "index": 8,
+          "crossingSec": 64.5,
+          "periodS": 8.5,
+          "heightM": 1.2,
+          "speedMs": 5.33,
+          "depthM": 2.9,
+          "direction": "ltr"
+        }
+      ],
+      "meanPeriodS": 8.5,
+      "meanHeightM": 1.16,
+      "meanDepthM": 2.9,
+      "direction": "ltr"
+    },
+    {
+      "id": "long-rtl",
+      "name": "南礁 · 右卷长涌",
+      "file": "long-rtl.mp4",
+      "durationSec": 84,
+      "fps": 12,
+      "width": 640,
+      "height": 360,
+      "weather": "clear",
+      "calibration": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "cameraHeightM": 9.2,
+        "tiltDeg": 10.5,
+        "horizontalFovDeg": 64,
+        "reef": {
+          "x": 0.58,
+          "y": 0.68
+        },
+        "reefDepthM": 3.2,
+        "calibratedAt": "2026-11-26T06:00:00+08:00"
+      },
+      "buoy": {
+        "station": "浮标 OB-07（同步模拟）",
+        "periodS": 12,
+        "significantHeightM": 1.72,
+        "depthM": 4
+      },
+      "chart": {
+        "source": "海图礁区测深格网 2025-Q2",
+        "reefDepthM": 4,
+        "toleranceM": 1
+      },
+      "waves": [
+        {
+          "index": 1,
+          "crossingSec": 5,
+          "periodS": 12,
+          "heightM": 1.92,
+          "speedMs": 6.26,
+          "depthM": 4,
+          "direction": "rtl"
+        },
+        {
+          "index": 2,
+          "crossingSec": 17,
+          "periodS": 12,
+          "heightM": 1.72,
+          "speedMs": 6.26,
+          "depthM": 4,
+          "direction": "rtl"
+        },
+        {
+          "index": 3,
+          "crossingSec": 29,
+          "periodS": 12,
+          "heightM": 1.7,
+          "speedMs": 6.26,
+          "depthM": 4,
+          "direction": "rtl"
+        },
+        {
+          "index": 4,
+          "crossingSec": 41,
+          "periodS": 12,
+          "heightM": 1.91,
+          "speedMs": 6.26,
+          "depthM": 4,
+          "direction": "rtl"
+        },
+        {
+          "index": 5,
+          "crossingSec": 53,
+          "periodS": 12,
+          "heightM": 1.86,
+          "speedMs": 6.26,
+          "depthM": 4,
+          "direction": "rtl"
+        },
+        {
+          "index": 6,
+          "crossingSec": 65,
+          "periodS": 12,
+          "heightM": 1.67,
+          "speedMs": 6.26,
+          "depthM": 4,
+          "direction": "rtl"
+        },
+        {
+          "index": 7,
+          "crossingSec": 77,
+          "periodS": 12,
+          "heightM": 1.78,
+          "speedMs": 6.26,
+          "depthM": 4,
+          "direction": "rtl"
+        }
+      ],
+      "meanPeriodS": 12,
+      "meanHeightM": 1.79,
+      "meanDepthM": 4,
+      "direction": "rtl"
+    },
+    {
+      "id": "heavy-rain-ltr",
+      "name": "北滩 · 雨中涌",
+      "file": "heavy-rain-ltr.mp4",
+      "durationSec": 84,
+      "fps": 12,
+      "width": 640,
+      "height": 360,
+      "weather": "rain",
+      "calibration": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "cameraHeightM": 9.2,
+        "tiltDeg": 10.5,
+        "horizontalFovDeg": 64,
+        "reef": {
+          "x": 0.58,
+          "y": 0.68
+        },
+        "reefDepthM": 3.2,
+        "calibratedAt": "2026-11-26T06:00:00+08:00"
+      },
+      "buoy": {
+        "station": "浮标 OB-07（同步模拟）",
+        "periodS": 14,
+        "significantHeightM": 2.23,
+        "depthM": 4.8
+      },
+      "chart": {
+        "source": "海图礁区测深格网 2025-Q2",
+        "reefDepthM": 4.8,
+        "toleranceM": 1.2
+      },
+      "waves": [
+        {
+          "index": 1,
+          "crossingSec": 5,
+          "periodS": 14,
+          "heightM": 2.37,
+          "speedMs": 6.86,
+          "depthM": 4.8,
+          "direction": "ltr"
+        },
+        {
+          "index": 2,
+          "crossingSec": 19,
+          "periodS": 14,
+          "heightM": 2.17,
+          "speedMs": 6.86,
+          "depthM": 4.8,
+          "direction": "ltr"
+        },
+        {
+          "index": 3,
+          "crossingSec": 33,
+          "periodS": 14,
+          "heightM": 2.39,
+          "speedMs": 6.86,
+          "depthM": 4.8,
+          "direction": "ltr"
+        },
+        {
+          "index": 4,
+          "crossingSec": 47,
+          "periodS": 14,
+          "heightM": 2.51,
+          "speedMs": 6.86,
+          "depthM": 4.8,
+          "direction": "ltr"
+        },
+        {
+          "index": 5,
+          "crossingSec": 61,
+          "periodS": 14,
+          "heightM": 2.26,
+          "speedMs": 6.86,
+          "depthM": 4.8,
+          "direction": "ltr"
+        },
+        {
+          "index": 6,
+          "crossingSec": 75,
+          "periodS": 14,
+          "heightM": 2.21,
+          "speedMs": 6.86,
+          "depthM": 4.8,
+          "direction": "ltr"
+        }
+      ],
+      "meanPeriodS": 14,
+      "meanHeightM": 2.32,
+      "meanDepthM": 4.8,
+      "direction": "ltr"
+    },
+    {
+      "id": "backlight-rtl",
+      "name": "西壁 · 逆光碎浪",
+      "file": "backlight-rtl.mp4",
+      "durationSec": 60,
+      "fps": 12,
+      "width": 640,
+      "height": 360,
+      "weather": "backlight",
+      "calibration": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "cameraHeightM": 9.2,
+        "tiltDeg": 10.5,
+        "horizontalFovDeg": 64,
+        "reef": {
+          "x": 0.58,
+          "y": 0.68
+        },
+        "reefDepthM": 3.2,
+        "calibratedAt": "2026-11-26T06:00:00+08:00"
+      },
+      "buoy": {
+        "station": "浮标 OB-07（同步模拟）",
+        "periodS": 7.5,
+        "significantHeightM": 0.86,
+        "depthM": 2.3
+      },
+      "chart": {
+        "source": "海图礁区测深格网 2025-Q2",
+        "reefDepthM": 2.3,
+        "toleranceM": 0.57
+      },
+      "waves": [
+        {
+          "index": 1,
+          "crossingSec": 5,
+          "periodS": 7.5,
+          "heightM": 0.85,
+          "speedMs": 4.75,
+          "depthM": 2.3,
+          "direction": "rtl"
+        },
+        {
+          "index": 2,
+          "crossingSec": 12.5,
+          "periodS": 7.5,
+          "heightM": 0.87,
+          "speedMs": 4.75,
+          "depthM": 2.3,
+          "direction": "rtl"
+        },
+        {
+          "index": 3,
+          "crossingSec": 20,
+          "periodS": 7.5,
+          "heightM": 0.96,
+          "speedMs": 4.75,
+          "depthM": 2.3,
+          "direction": "rtl"
+        },
+        {
+          "index": 4,
+          "crossingSec": 27.5,
+          "periodS": 7.5,
+          "heightM": 0.91,
+          "speedMs": 4.75,
+          "depthM": 2.3,
+          "direction": "rtl"
+        },
+        {
+          "index": 5,
+          "crossingSec": 35,
+          "periodS": 7.5,
+          "heightM": 0.83,
+          "speedMs": 4.75,
+          "depthM": 2.3,
+          "direction": "rtl"
+        },
+        {
+          "index": 6,
+          "crossingSec": 42.5,
+          "periodS": 7.5,
+          "heightM": 0.91,
+          "speedMs": 4.75,
+          "depthM": 2.3,
+          "direction": "rtl"
+        },
+        {
+          "index": 7,
+          "crossingSec": 50,
+          "periodS": 7.5,
+          "heightM": 0.96,
+          "speedMs": 4.75,
+          "depthM": 2.3,
+          "direction": "rtl"
+        },
+        {
+          "index": 8,
+          "crossingSec": 57.5,
+          "periodS": 7.5,
+          "heightM": 0.87,
+          "speedMs": 4.75,
+          "depthM": 2.3,
+          "direction": "rtl"
+        }
+      ],
+      "meanPeriodS": 7.5,
+      "meanHeightM": 0.9,
+      "meanDepthM": 2.3,
+      "direction": "rtl"
+    },
+    {
+      "id": "benchmark-10m",
+      "name": "十分钟性能基准",
+      "file": "benchmark-10m.mp4",
+      "durationSec": 600,
+      "fps": 12,
+      "width": 640,
+      "height": 360,
+      "weather": "clear",
+      "calibration": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "cameraHeightM": 9.2,
+        "tiltDeg": 10.5,
+        "horizontalFovDeg": 64,
+        "reef": {
+          "x": 0.58,
+          "y": 0.68
+        },
+        "reefDepthM": 3.2,
+        "calibratedAt": "2026-11-26T06:00:00+08:00"
+      },
+      "buoy": {
+        "station": "浮标 OB-07（同步模拟）",
+        "periodS": 10,
+        "significantHeightM": 1.39,
+        "depthM": 3.2
+      },
+      "chart": {
+        "source": "海图礁区测深格网 2025-Q2",
+        "reefDepthM": 3.2,
+        "toleranceM": 0.8
+      },
+      "waves": [
+        {
+          "index": 1,
+          "crossingSec": 5,
+          "periodS": 10,
+          "heightM": 1.35,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 2,
+          "crossingSec": 15,
+          "periodS": 10,
+          "heightM": 1.5,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 3,
+          "crossingSec": 25,
+          "periodS": 10,
+          "heightM": 1.54,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 4,
+          "crossingSec": 35,
+          "periodS": 10,
+          "heightM": 1.37,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 5,
+          "crossingSec": 45,
+          "periodS": 10,
+          "heightM": 1.39,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 6,
+          "crossingSec": 55,
+          "periodS": 10,
+          "heightM": 1.55,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 7,
+          "crossingSec": 65,
+          "periodS": 10,
+          "heightM": 1.48,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 8,
+          "crossingSec": 75,
+          "periodS": 10,
+          "heightM": 1.34,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 9,
+          "crossingSec": 85,
+          "periodS": 10,
+          "heightM": 1.45,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 10,
+          "crossingSec": 95,
+          "periodS": 10,
+          "heightM": 1.56,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 11,
+          "crossingSec": 105,
+          "periodS": 10,
+          "heightM": 1.41,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 12,
+          "crossingSec": 115,
+          "periodS": 10,
+          "heightM": 1.36,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 13,
+          "crossingSec": 125,
+          "periodS": 10,
+          "heightM": 1.52,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 14,
+          "crossingSec": 135,
+          "periodS": 10,
+          "heightM": 1.52,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 15,
+          "crossingSec": 145,
+          "periodS": 10,
+          "heightM": 1.36,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 16,
+          "crossingSec": 155,
+          "periodS": 10,
+          "heightM": 1.41,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 17,
+          "crossingSec": 165,
+          "periodS": 10,
+          "heightM": 1.56,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 18,
+          "crossingSec": 175,
+          "periodS": 10,
+          "heightM": 1.46,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 19,
+          "crossingSec": 185,
+          "periodS": 10,
+          "heightM": 1.34,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 20,
+          "crossingSec": 195,
+          "periodS": 10,
+          "heightM": 1.47,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 21,
+          "crossingSec": 205,
+          "periodS": 10,
+          "heightM": 1.55,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 22,
+          "crossingSec": 215,
+          "periodS": 10,
+          "heightM": 1.39,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 23,
+          "crossingSec": 225,
+          "periodS": 10,
+          "heightM": 1.37,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 24,
+          "crossingSec": 235,
+          "periodS": 10,
+          "heightM": 1.53,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 25,
+          "crossingSec": 245,
+          "periodS": 10,
+          "heightM": 1.51,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 26,
+          "crossingSec": 255,
+          "periodS": 10,
+          "heightM": 1.35,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 27,
+          "crossingSec": 265,
+          "periodS": 10,
+          "heightM": 1.42,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 28,
+          "crossingSec": 275,
+          "periodS": 10,
+          "heightM": 1.56,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 29,
+          "crossingSec": 285,
+          "periodS": 10,
+          "heightM": 1.44,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 30,
+          "crossingSec": 295,
+          "periodS": 10,
+          "heightM": 1.34,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 31,
+          "crossingSec": 305,
+          "periodS": 10,
+          "heightM": 1.49,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 32,
+          "crossingSec": 315,
+          "periodS": 10,
+          "heightM": 1.54,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 33,
+          "crossingSec": 325,
+          "periodS": 10,
+          "heightM": 1.38,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 34,
+          "crossingSec": 335,
+          "periodS": 10,
+          "heightM": 1.38,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 35,
+          "crossingSec": 345,
+          "periodS": 10,
+          "heightM": 1.54,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 36,
+          "crossingSec": 355,
+          "periodS": 10,
+          "heightM": 1.49,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 37,
+          "crossingSec": 365,
+          "periodS": 10,
+          "heightM": 1.34,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 38,
+          "crossingSec": 375,
+          "periodS": 10,
+          "heightM": 1.44,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 39,
+          "crossingSec": 385,
+          "periodS": 10,
+          "heightM": 1.56,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 40,
+          "crossingSec": 395,
+          "periodS": 10,
+          "heightM": 1.42,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 41,
+          "crossingSec": 405,
+          "periodS": 10,
+          "heightM": 1.35,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 42,
+          "crossingSec": 415,
+          "periodS": 10,
+          "heightM": 1.51,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 43,
+          "crossingSec": 425,
+          "periodS": 10,
+          "heightM": 1.53,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 44,
+          "crossingSec": 435,
+          "periodS": 10,
+          "heightM": 1.36,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 45,
+          "crossingSec": 445,
+          "periodS": 10,
+          "heightM": 1.4,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 46,
+          "crossingSec": 455,
+          "periodS": 10,
+          "heightM": 1.55,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 47,
+          "crossingSec": 465,
+          "periodS": 10,
+          "heightM": 1.47,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 48,
+          "crossingSec": 475,
+          "periodS": 10,
+          "heightM": 1.34,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 49,
+          "crossingSec": 485,
+          "periodS": 10,
+          "heightM": 1.46,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 50,
+          "crossingSec": 495,
+          "periodS": 10,
+          "heightM": 1.55,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 51,
+          "crossingSec": 505,
+          "periodS": 10,
+          "heightM": 1.4,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 52,
+          "crossingSec": 515,
+          "periodS": 10,
+          "heightM": 1.36,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 53,
+          "crossingSec": 525,
+          "periodS": 10,
+          "heightM": 1.53,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 54,
+          "crossingSec": 535,
+          "periodS": 10,
+          "heightM": 1.52,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 55,
+          "crossingSec": 545,
+          "periodS": 10,
+          "heightM": 1.35,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 56,
+          "crossingSec": 555,
+          "periodS": 10,
+          "heightM": 1.41,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 57,
+          "crossingSec": 565,
+          "periodS": 10,
+          "heightM": 1.56,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 58,
+          "crossingSec": 575,
+          "periodS": 10,
+          "heightM": 1.45,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 59,
+          "crossingSec": 585,
+          "periodS": 10,
+          "heightM": 1.34,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        },
+        {
+          "index": 60,
+          "crossingSec": 595,
+          "periodS": 10,
+          "heightM": 1.48,
+          "speedMs": 5.6,
+          "depthM": 3.2,
+          "direction": "ltr"
+        }
+      ],
+      "meanPeriodS": 10,
+      "meanHeightM": 1.45,
+      "meanDepthM": 3.2,
+      "direction": "ltr"
+    }
+  ]
+}

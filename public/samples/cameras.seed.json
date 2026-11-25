@@ -1,0 +1,130 @@
+{
+  "version": 1,
+  "cameras": [
+    {
+      "id": "cam-clean-ltr",
+      "name": "一号塔台",
+      "beach": "清水点 · 左卷",
+      "sourceKind": "sample",
+      "src": "/samples/clean-ltr.mp4",
+      "sampleId": "clean-ltr",
+      "enabled": true,
+      "weather": "clear",
+      "calibration": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "cameraHeightM": 9.2,
+        "tiltDeg": 10.5,
+        "horizontalFovDeg": 64,
+        "reef": {
+          "x": 0.58,
+          "y": 0.68
+        },
+        "reefDepthM": 3.2,
+        "calibratedAt": "2026-11-26T06:00:00+08:00"
+      },
+      "notes": "日常练习主力机位",
+      "createdAt": "2026-11-25T20:00:00+08:00"
+    },
+    {
+      "id": "cam-long-rtl",
+      "name": "南礁机位",
+      "beach": "南礁 · 右卷长涌",
+      "sourceKind": "sample",
+      "src": "/samples/long-rtl.mp4",
+      "sampleId": "long-rtl",
+      "enabled": true,
+      "weather": "clear",
+      "calibration": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "cameraHeightM": 9.2,
+        "tiltDeg": 10.5,
+        "horizontalFovDeg": 64,
+        "reef": {
+          "x": 0.58,
+          "y": 0.68
+        },
+        "reefDepthM": 3.2,
+        "calibratedAt": "2026-11-26T06:00:00+08:00"
+      },
+      "notes": "",
+      "createdAt": "2026-11-25T20:00:00+08:00"
+    },
+    {
+      "id": "cam-heavy-rain-ltr",
+      "name": "北滩东桩",
+      "beach": "北滩 · 雨中涌",
+      "sourceKind": "sample",
+      "src": "/samples/heavy-rain-ltr.mp4",
+      "sampleId": "heavy-rain-ltr",
+      "enabled": true,
+      "weather": "rain",
+      "calibration": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "cameraHeightM": 9.2,
+        "tiltDeg": 10.5,
+        "horizontalFovDeg": 64,
+        "reef": {
+          "x": 0.58,
+          "y": 0.68
+        },
+        "reefDepthM": 3.2,
+        "calibratedAt": "2026-11-26T06:00:00+08:00"
+      },
+      "notes": "",
+      "createdAt": "2026-11-25T20:00:00+08:00"
+    },
+    {
+      "id": "cam-backlight-rtl",
+      "name": "西门栈道",
+      "beach": "西壁 · 逆光碎浪",
+      "sourceKind": "sample",
+      "src": "/samples/backlight-rtl.mp4",
+      "sampleId": "backlight-rtl",
+      "enabled": true,
+      "weather": "backlight",
+      "calibration": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "cameraHeightM": 9.2,
+        "tiltDeg": 10.5,
+        "horizontalFovDeg": 64,
+        "reef": {
+          "x": 0.58,
+          "y": 0.68
+        },
+        "reefDepthM": 3.2,
+        "calibratedAt": "2026-11-26T06:00:00+08:00"
+      },
+      "notes": "",
+      "createdAt": "2026-11-25T20:00:00+08:00"
+    },
+    {
+      "id": "cam-benchmark",
+      "name": "性能基准机位",
+      "beach": "十分钟循环涌浪",
+      "sourceKind": "sample",
+      "src": "/samples/benchmark-10m.mp4",
+      "sampleId": "benchmark-10m",
+      "enabled": true,
+      "weather": "clear",
+      "calibration": {
+        "imageWidth": 640,
+        "imageHeight": 360,
+        "cameraHeightM": 9.2,
+        "tiltDeg": 10.5,
+        "horizontalFovDeg": 64,
+        "reef": {
+          "x": 0.58,
+          "y": 0.68
+        },
+        "reefDepthM": 3.2,
+        "calibratedAt": "2026-11-26T06:00:00+08:00"
+      },
+      "notes": "600 秒录像，用于验证一分钟内出结果",
+      "createdAt": "2026-11-25T20:00:00+08:00"
+    }
+  ]
+}
